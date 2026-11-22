@@ -23,3 +23,5 @@ I assessed Damn Vulnerable Web Application (DVWA) at its **Medium** security set
 ### Scope and limitations
 
 DVWA and Metasploitable2 are deliberately vulnerable training systems. The lab used a flat virtual network, so the assessment reflects the controls and exposure of that environment.
+
+[Browse the Bug Bounty project folder](bug-bounty/)
